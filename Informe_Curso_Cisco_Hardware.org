@@ -1,6 +1,6 @@
 #+TITLE: Curso Cisco: Conceptos Básicos de Hardware de Computadora
-#+AUTHOR: Nombre del estudiante
-#+DATE: \today
+#+AUTHOR: Samara Salazar
+#+DATE: 14-12-2025
 #+OPTIONS: toc:2 num:t
 
 * 1. Información general
@@ -12,19 +12,19 @@
 * 2. Evidencia de completitud por áreas
 En esta sección se adjuntan las capturas de pantalla donde se evidencia el usuario y la completitud de cada área temática del curso.
 
-** 2.1 Computadores
+**  Computadores
 A continuación se muestra la evidencia correspondiente al módulo de *Computadores*.
 
 #+CAPTION: Completitud del módulo Computadores
 [[file:computadores.jpeg]]
 
-** 2.2 Laptops
+**  Laptops
 A continuación se muestra la evidencia correspondiente al módulo de *Laptops*.
 
 #+CAPTION: Completitud del módulo Laptops
 [[file:portatiles.jpeg]]
 
-** 2.3 Smartphones
+**  Smartphones
 A continuación se muestra la evidencia correspondiente al módulo de *Smartphones*.
 
 #+CAPTION: Completitud del módulo Smartphones
