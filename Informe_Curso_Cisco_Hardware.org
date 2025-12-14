@@ -16,19 +16,19 @@ En esta sección se adjuntan las capturas de pantalla donde se evidencia el usua
 A continuación se muestra la evidencia correspondiente al módulo de *Computadores*.
 
 #+CAPTION: Completitud del módulo Computadores
-[[file:computadores.png]]
+[[file:computadores.jpeg]]
 
 ** 2.2 Laptops
 A continuación se muestra la evidencia correspondiente al módulo de *Laptops*.
 
 #+CAPTION: Completitud del módulo Laptops
-[[file:laptops.png]]
+[[file:portatines.jpeg]]
 
 ** 2.3 Smartphones
 A continuación se muestra la evidencia correspondiente al módulo de *Smartphones*.
 
 #+CAPTION: Completitud del módulo Smartphones
-[[file:smartphones.png]]
+[[file:smartphones.jpeg]]
 
 * 3. Certificado de finalización
 En esta sección se adjunta el certificado oficial de completitud emitido por Cisco Networking Academy.
