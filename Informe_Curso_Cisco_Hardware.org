@@ -1,0 +1,47 @@
+#+TITLE: Curso Cisco: Conceptos Básicos de Hardware de Computadora
+#+AUTHOR: Nombre del estudiante
+#+DATE: \today
+#+OPTIONS: toc:2 num:t
+
+* 1. Información general
+- Plataforma: Cisco Networking Academy
+- Curso: Conceptos Básicos de Hardware de Computadora
+- Usuario Cisco: (coloque aquí su usuario)
+- Estado del curso: Completado al 100%
+
+* 2. Evidencia de completitud por áreas
+En esta sección se adjuntan las capturas de pantalla donde se evidencia el usuario y la completitud de cada área temática del curso.
+
+** 2.1 Computadores
+A continuación se muestra la evidencia correspondiente al módulo de *Computadores*.
+
+#+CAPTION: Completitud del módulo Computadores
+[[file:computadores.png]]
+
+** 2.2 Laptops
+A continuación se muestra la evidencia correspondiente al módulo de *Laptops*.
+
+#+CAPTION: Completitud del módulo Laptops
+[[file:laptops.png]]
+
+** 2.3 Smartphones
+A continuación se muestra la evidencia correspondiente al módulo de *Smartphones*.
+
+#+CAPTION: Completitud del módulo Smartphones
+[[file:smartphones.png]]
+
+* 3. Certificado de finalización
+En esta sección se adjunta el certificado oficial de completitud emitido por Cisco Networking Academy.
+
+#+CAPTION: Certificado de completitud del curso
+[[file:certificado-cisco.png]]
+
+* 4. Comentarios y lecciones aprendidas
+Durante la realización del curso de *Conceptos Básicos de Hardware de Computadora* se reforzaron conocimientos previos sobre los componentes internos de una computadora y su correcta manipulación. Además, se adquirieron nuevos conocimientos relevantes, entre ellos:
+
+- Identificación detallada de los componentes internos de computadoras de escritorio y laptops.
+- Normas de seguridad al trabajar con equipos de cómputo, especialmente el manejo de descargas electrostáticas (ESD).
+- Procedimientos adecuados para el desmontaje y ensamblaje de computadoras.
+- Diferencias de hardware y mantenimiento entre computadoras, laptops y smartphones.
+
+Este curso permitió comprender de manera más clara la importancia del mantenimiento preventivo y de la seguridad al trabajar con dispositivos electrónicos, conocimientos fundamentales para la formación en el área de Tecnologías de la Información.
