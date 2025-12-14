@@ -8,8 +8,8 @@
 - Curso: Conceptos Básicos de Hardware de Computadora
 - Estado del curso: Completado al 100%
 
-* 2. Evidencia de completitud por áreas
-En esta sección se adjuntan las capturas de pantalla donde se evidencia el usuario y la completitud de cada área temática del curso.
+* 2. Evidencia de completitud del curso
+En esta sección se adjuntan las capturas de pantalla donde se evidencia el usuario y la completitud del curso.
 
 **  Computadores
 A continuación se muestra la evidencia correspondiente al módulo de *Computadores*.
@@ -30,7 +30,7 @@ A continuación se muestra la evidencia correspondiente al módulo de *Smartphon
 [[file:smartphones.jpeg]]
 
 * 3. Certificado de finalización
-En esta sección se adjunta el certificado oficial de completitud emitido por Cisco Networking Academy.
+Aqui se adjunta el certificado oficial de completitud emitido por Cisco Networking Academy.
 
 #+CAPTION: Certificado de completitud del curso
 [[file:certificado-cisco.jpeg]]
@@ -38,11 +38,9 @@ En esta sección se adjunta el certificado oficial de completitud emitido por Ci
 
 
 * 4. Comentarios y lecciones aprendidas
-Durante la realización del curso de *Conceptos Básicos de Hardware de Computadora* se reforzaron conocimientos previos sobre los componentes internos de una computadora y su correcta manipulación. Además, se adquirieron nuevos conocimientos relevantes, entre ellos:
 
-- Identificación detallada de los componentes internos de computadoras de escritorio y laptops.
-- Normas de seguridad al trabajar con equipos de cómputo, especialmente el manejo de descargas electrostáticas (ESD).
-- Procedimientos adecuados para el desmontaje y ensamblaje de computadoras.
-- Diferencias de hardware y mantenimiento entre computadoras, laptops y smartphones.
+Tomar el curso de Conceptos Básicos de Hardware me sirvio para refrescar lo que ya sabía y, de paso, aprender cosas nuevas sobre cómo manipular los equipos sin correr riesgos.
 
-Este curso permitió comprender de manera más clara la importancia del mantenimiento preventivo y de la seguridad al trabajar con dispositivos electrónicos, conocimientos fundamentales para la formación en el área de Tecnologías de la Información.
+Lo que más destacó es haber aprendido a identificar la mayoria de piezas (ya sea en una laptop, una PC o un movil) y entender la importancia real de la seguridad, sobre todo con el tema de la estática, que es algo que a veces uno pasa por alto. También me sirvió mucho ver las diferencias a la hora de dar mantenimiento a un celular en comparación con una computadora.
+
+En resumen, me llevo una visión mucho más clara de por qué el mantenimiento preventivo es clave y siento que tengo una base mucho más sólida para seguir aprendiendo de la materia.
