@@ -22,7 +22,7 @@ A continuación se muestra la evidencia correspondiente al módulo de *Computado
 A continuación se muestra la evidencia correspondiente al módulo de *Laptops*.
 
 #+CAPTION: Completitud del módulo Laptops
-[[file:portatines.jpeg]]
+[[file:portatiles.jpeg]]
 
 ** 2.3 Smartphones
 A continuación se muestra la evidencia correspondiente al módulo de *Smartphones*.
