@@ -36,6 +36,8 @@ En esta sección se adjunta el certificado oficial de completitud emitido por Ci
 #+CAPTION: Certificado de completitud del curso
 [[file:certificado-cisco.png]]
 
+
+
 * 4. Comentarios y lecciones aprendidas
 Durante la realización del curso de *Conceptos Básicos de Hardware de Computadora* se reforzaron conocimientos previos sobre los componentes internos de una computadora y su correcta manipulación. Además, se adquirieron nuevos conocimientos relevantes, entre ellos:
 
