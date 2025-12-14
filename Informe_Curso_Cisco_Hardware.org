@@ -6,7 +6,6 @@
 * 1. Información general
 - Plataforma: Cisco Networking Academy
 - Curso: Conceptos Básicos de Hardware de Computadora
-- Usuario Cisco: (coloque aquí su usuario)
 - Estado del curso: Completado al 100%
 
 * 2. Evidencia de completitud por áreas
