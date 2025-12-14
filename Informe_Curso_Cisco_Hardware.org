@@ -34,7 +34,7 @@ A continuación se muestra la evidencia correspondiente al módulo de *Smartphon
 En esta sección se adjunta el certificado oficial de completitud emitido por Cisco Networking Academy.
 
 #+CAPTION: Certificado de completitud del curso
-[[file:certificado-cisco.png]]
+[[file:certificado-cisco.jpeg]]
 
 
 
